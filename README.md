@@ -4,4 +4,4 @@
 
 ## 目录
 
-[前端](./Front Rules.md)
+[前端]('./FrontRules.md')
