@@ -4,4 +4,6 @@
 
 ## 目录
 
-[前端]('./FrontRules.md')
+[01. 前端](./01.FrontRules.md)
+
+[02. 版本控制提交信息](./02.VersionControlCommit.md)
